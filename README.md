@@ -9,7 +9,7 @@
 
 # Authors
 
-- [@SyedaMahamFahim](https://github.com/SyedaMahamFahim/)
+- [@Rafael-Lee1](https://github.com/Rafael-Lee1)
 
 ## Tech Stack
 - React
@@ -27,7 +27,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/SyedaMahamFahim/Flower-For-Thought-Ecommerce-React.git
+  git clone https://github.com/Rafael-Lee1/PetalMarket-React
 ```
 
 Go to the project directory
@@ -50,5 +50,4 @@ Start the server
 
 ## Feedback
 
-If you have any feedback, please reach out to me at syedamahamfahim@gmail.com
-
+If you have any feedback, please reach out to me at rafalee.dev@gmail.com

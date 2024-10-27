@@ -10,13 +10,13 @@ const FooterCopyright = ({ spaceBottomClass, colorClass }) => {
       }`}
     >
       <div className="footer-logo">
-        <Link to={process.env.PUBLIC_URL + "/"} 
+        <Link to={process.env.PUBLIC_URL + "/"}
         style={{
           fontSize: "30px",
           fontWeight: 800,
         }}
-        
-        
+
+
         >
         Flower for Thought
         </Link>
@@ -24,7 +24,7 @@ const FooterCopyright = ({ spaceBottomClass, colorClass }) => {
       <p>
         &copy; {new Date().getFullYear()}{" "}
         <a
-          href="https://www.fiverr.com/syedamahamfahim"
+          href="https://meuportifolio-production-8292.up.railway.app/#experience"
           rel="noopener noreferrer"
           target="_blank"
         >
